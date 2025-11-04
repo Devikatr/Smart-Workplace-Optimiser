@@ -76,4 +76,4 @@ It promotes comfort, focus, and productivity, redefining how humans interact wit
 
 ## 📷 Demo / Block Diagram
 
-![System Diagram](ckt.png)
+![System Diagram](ckt.jpg)
