@@ -75,7 +75,5 @@ It promotes comfort, focus, and productivity, redefining how humans interact wit
 ---
 
 ## 📷 Demo / Block Diagram
-*(Upload your block diagram or setup photo and link it here later)*  
-Example:  
-```markdown
-![System Diagram](workspace-diagram.png)
+
+![System Diagram](ckt.png)
